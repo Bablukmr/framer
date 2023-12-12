@@ -6,7 +6,7 @@ import aa from "../../../public/aa.svg";
 function Finance() {
   return (
     <div className="flex flex-col items-center justify-center gap-6 my-10">
-      <h1 className="w-full text-3xl md:text-5xl lg:text-7xl xl:text-5xl 2xl:text-6xl font-medium leading-tight text-center">
+      <h1 className="w-full lg:w-[70%] text-3xl md:text-5xl lg:text-7xl xl:text-5xl 2xl:text-6xl font-medium leading-tight text-center">
         Mercury Money Your Ultimate Finance Companion
       </h1>
       <p className="text-[#53545C] w-full text-center">
